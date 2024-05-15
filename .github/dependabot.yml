@@ -1,8 +1,9 @@
-version: 2
-updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    labels:
-      - "Enhancement"
-    schedule:
-      interval: "daily"
+no
+no
+no
+no
+no
+no
+no
+no
+no
